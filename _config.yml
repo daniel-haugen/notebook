@@ -3,6 +3,4 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - README.md
-  - 201reading-notes.md
+
