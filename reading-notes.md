@@ -8,7 +8,7 @@
 | [301 Reading Notes](#code-301-reading-notes) | All class notes from Code 301 |
 | [401 Reading Notes](#code-401-reading-notes) | All class notes from Code 401: Advanced Full-Stack Javascript Development | 
 
-## Code 201 Reading Notes
+# Code 201 Reading Notes
 
 ### Contents
 
@@ -32,7 +32,7 @@
 
 
 
-### 201 Day 1
+## 201 Day 1
 #### CSS Positioning and Display Techniques
 
 This is about the CSS Positioning and display techniques
@@ -42,52 +42,74 @@ flex box is super nice
 ##### Grid
 grid is also super nice
 
-### 201 Day 2
+## 201 Day 2
 #### Javascript
 
-### 201 Day 3
+## 201 Day 3
 #### Javascript
 
-### 201 Day 4
+## 201 Day 4
 #### Javascript
 
-### 201 Day 5
+## 201 Day 5
 #### Javascript
 
-### 201 Day 6
+## 201 Day 6
 #### Javascript
 
-### 201 Day 7
+## 201 Day 7
 #### Javascript
 
-### 201 Day 8
+## 201 Day 8
 #### Javascript
 
-### 201 Day 9
+## 201 Day 9
 #### Javascript
 
-### 201 Day 10
+## 201 Day 10
 #### Javascript
 
-### 201 Day 11
+## 201 Day 11
 #### Javascript
 
-### 201 Day 12
+## 201 Day 12
 #### Javascript
 
-### 201 Day 13
+## 201 Day 13
 #### Javascript
 
-### 201 Day 14
+## 201 Day 14
 #### Javascript
 
-### 201 Day 15
+## 201 Day 15
 #### Javascript
 
 
-## Code 301 Reading Notes
-### Day 1
+# Code 301 Reading Notes
+
+### contents
+
+| Day | Description |
+|------|-----------|
+| [1](#301-day-1) | Day 1 covers CSS Positioning and basic javascript |
+| [2](#301-day-2) |  |
+| [3](#301-day-3) |  |
+| [4](#301-day-4) |  |
+| [5](#301-day-5) |  |
+| [6](#301-day-6) |  |
+| [7](#301-day-7) |  |
+| [8](#301-day-8) |  |
+| [9](#301-day-9) |  |
+| [10](#301-day-10) |  |
+| [11](#301-day-11) |  |
+| [12](#301-day-12) |  |
+| [13](#301-day-13) |  |
+| [14](#301-day-14) |  |
+| [15](#301-day-15) |  |
 
 
-## Code 401 Reading Notes
-### Day 1
+## Day 1
+
+
+# Code 401 Reading Notes
+## Day 1
