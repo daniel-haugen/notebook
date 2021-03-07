@@ -6,7 +6,7 @@ This is a collection of reading notes put together by Daniel Haugen while studyi
 -[Day 1](#day-1-reading-notes)
 -[Day 2](#day-2-reading-notes)
 
--[day](https://www.danielhaugen22.github.io/reading-notes)
+-[day](https://www.danielhaugen22.github.io/reading-notes.html)
 
 
 
