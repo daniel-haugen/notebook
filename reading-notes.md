@@ -10,8 +10,14 @@
 
 ## Code 201 Reading Notes
 ### Day 1
+#### CSS Positioning and Display Techniques
 
 This is about the CSS Positioning and display techniques
+
+##### Flex
+flex box is super nice
+##### Grid
+grid is also super nice
 
 ## Code 301 Reading Notes
 ### Day 1
