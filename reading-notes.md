@@ -16,7 +16,7 @@
 
 | Day | Description |
 |------|-----------|
-| [1](#201-day-1) | Day 1 covers CSS Positioning and basic javascript |
+| [1](classnotes/class01.md) | Day 1 covers CSS Positioning and basic javascript |
 | [2](#201-day-2) |  |
 | [3](#201-day-3) |  |
 | [4](#201-day-4) |  |
@@ -34,57 +34,7 @@
 
 
 
-## 201 Day 1
-#### CSS Positioning and Display Techniques
 
-This is about the CSS Positioning and display techniques
-
-##### Flex
-flex box is super nice
-##### Grid
-grid is also super nice
-
-## 201 Day 2
-#### Javascript
-
-## 201 Day 3
-#### Javascript
-
-## 201 Day 4
-#### Javascript
-
-## 201 Day 5
-#### Javascript
-
-## 201 Day 6
-#### Javascript
-
-## 201 Day 7
-#### Javascript
-
-## 201 Day 8
-#### Javascript
-
-## 201 Day 9
-#### Javascript
-
-## 201 Day 10
-#### Javascript
-
-## 201 Day 11
-#### Javascript
-
-## 201 Day 12
-#### Javascript
-
-## 201 Day 13
-#### Javascript
-
-## 201 Day 14
-#### Javascript
-
-## 201 Day 15
-#### Javascript
 
 
 # Code 301 Reading Notes
