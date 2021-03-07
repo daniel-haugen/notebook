@@ -1,24 +1,15 @@
-# CodeFellows Reading Notes
-This is a collection of reading notes put together by Daniel Haugen while studying CF's 201 curriculum. :triumph:
+# Welcome to Daniel's Github Account :triumph:
+## About Me 
+Living on Duwamish Occupied terrority. 
+Worked in digital marketing for 5-6 years and my desire to automate my job has directed my learning towards programming. I'm currently attending Code Fellows to study Full-Stack Javascript Software Development. My expected graduation date is August 2021. 
 
-## 201 Table Of Contents
-
--[Day 1](#day-1-reading-notes)
--[Day 2](#day-2-reading-notes)
-
--[day](https://www.danielhaugen22.github.io/reading-notes)
+## Code Fellows Reading Notes
+-[201 Reading Notes](https://www.danielhaugen22.github.io/reading-notes)
 
 
+## Favorite Projects
 
-## Day 1 Reading Notes
-This is going to be the first day's reading notes.
-## Day 2 Reading Notes
-## Day 3 Reading Notes
-## Day 4 Reading Notes
-On the fourth day this is what we learned
-## Day 5 Reading Notes
-## Day 6 Reading Notes
-## Day 7 Reading Notes
-## Day 8 Reading Notes
-## Day 9 Reading Notes
-## Day 10 Reading Notes
+#### NlP And Meta Tags
+
+## Personal Website
+
