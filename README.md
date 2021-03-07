@@ -6,6 +6,9 @@ This is a collection of reading notes put together by Daniel Haugen while studyi
 -[Day 1](#day-1-reading-notes)
 -[Day 2](#day-2-reading-notes)
 
+-[day] (/reading-notes.md)
+
+
 
 ## Day 1 Reading Notes
 This is going to be the first day's reading notes.
