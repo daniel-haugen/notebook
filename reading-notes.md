@@ -7,6 +7,8 @@
 | [201 Reading Notes](#code-201-reading-notes) | All of my class notes from Code 201|
 | [301 Reading Notes](#code-301-reading-notes) | All class notes from Code 301 |
 | [401 Reading Notes](#code-401-reading-notes) | All class notes from Code 401: Advanced Full-Stack Javascript Development | 
+<br/>
+<br/>
 
 # Code 201 Reading Notes
 
