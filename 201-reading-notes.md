@@ -2,11 +2,13 @@
 
 ### Table of Contents
 
--[Day 1](#Day-1-reading-notes) <br/>
--[Day 2](#Day-2-reading-notes)<br/>
+| Day | Description |
+|------|-----------|
+| -[Day 1](#Day-1-reading-notes) | This is the first day of reading notes. |
+-[Day 2](#Day-2-reading-notes)
 -[Day 3](#Day-3-reading-notes)
--[Day 4](#Day-4-reading-notes)<br/>
--[Day 5](#Day-5-reading-notes)<br/>
+-[Day 4](#Day-4-reading-notes)
+-[Day 5](#Day-5-reading-notes)
 
 
 ## Day 1 Reading Notes - HTML/JS/CSS
