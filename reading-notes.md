@@ -1,19 +1,13 @@
 # Code Fellows Reading Notes
 
 ### Table of Contents
-
-| Course| Description |
-|------|-----------|
-| [201 Reading Notes](#code-201-reading-notes) | All of my class notes from Code 201|
-| [301 Reading Notes](#code-301-reading-notes) | All class notes from Code 301 |
-| [401 Reading Notes](#code-401-reading-notes) | All class notes from Code 401: Advanced Full-Stack Javascript Development | 
-<br/>
+1. [201 Reading Notes](#code-201-reading-notes)
+2. [301 Reading Notes](#code-301-reading-notes)
+3. [401 Reading Notes](#code-401-reading-notes)
 <br/>
 
 # Code 201 Reading Notes
-
 ### Contents
-
 | Day | Description |
 |------|-----------|
 | [1](classnotes/class01.md) | Day 1 covers CSS Positioning and basic javascript |
@@ -31,16 +25,10 @@
 | [13](#201-day-13) |  |
 | [14](#201-day-14) |  |
 | [15](#201-day-15) |  |
-
-
-
-
-
+<br/>
 
 # Code 301 Reading Notes
-
-### contents
-
+### Contents
 | Day | Description |
 |------|-----------|
 | [1](#301-day-1) | Day 1 covers CSS Positioning and basic javascript |
@@ -58,10 +46,24 @@
 | [13](#301-day-13) |  |
 | [14](#301-day-14) |  |
 | [15](#301-day-15) |  |
-
-
-## Day 1
-
+<br/>
 
 # Code 401 Reading Notes
-## Day 1
+### Contents
+| Day | Description |
+|------|-----------|
+| [1](#301-day-1) | Day 1 covers CSS Positioning and basic javascript |
+| [2](#301-day-2) |  |
+| [3](#301-day-3) |  |
+| [4](#301-day-4) |  |
+| [5](#301-day-5) |  |
+| [6](#301-day-6) |  |
+| [7](#301-day-7) |  |
+| [8](#301-day-8) |  |
+| [9](#301-day-9) |  |
+| [10](#301-day-10) |  |
+| [11](#301-day-11) |  |
+| [12](#301-day-12) |  |
+| [13](#301-day-13) |  |
+| [14](#301-day-14) |  |
+| [15](#301-day-15) |  |

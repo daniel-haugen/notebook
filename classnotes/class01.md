@@ -1,10 +1,9 @@
 # 201 Day 1
 [Back to Table of Contents](../reading-notes.md)<br/>
-# CSS Positioning and Display Techniques
 
-This is about the CSS Positioning and display techniques
+Reading is 
 
-##### Flex
-flex box is super nice
-##### Grid
-grid is also super nice
+Html - pg 2-11, 12-39, 176-199, 428-451, 452-475
+
+JS - Intro, pg 11-52
+
