@@ -4,7 +4,6 @@
 1. [201 Reading Notes](#code-201-reading-notes)
 2. [301 Reading Notes](#code-301-reading-notes)
 3. [401 Reading Notes](#code-401-reading-notes)
-<br/>
 
 ## Code 201 Reading Notes
 ### Contents
