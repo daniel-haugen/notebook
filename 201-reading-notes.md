@@ -2,9 +2,9 @@
 
 ### Table of Contents
 
--[Day 1](#Day-1-reading-notes) </br>
--[Day 2](#Day-2-reading-notes)
--[Day 3](#Day-3-reading-notes)
+-[Day 1](#Day-1-reading-notes) <br/>
+-[Day 2](#Day-2-reading-notes)<br/>
+-[Day 3](#Day-3-reading-notes)<br/>
 
 
 ## Day 1 Reading Notes - HTML/JS/CSS
