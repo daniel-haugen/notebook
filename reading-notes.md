@@ -7,9 +7,9 @@
 
 ## Code 201 Reading Notes
 ### Contents
-| Day | Description |
+| Day | Topics Covered |
 |------|-----------|
-| [1](classnotes/class01.md) | Day 1 covers CSS Positioning and basic javascript |
+| [1](classnotes/class01.md) | Structure, Extra Markup, HTML5 Layout, Process & Design, ABC of Programming |
 | [2](#201-day-2) |  |
 | [3](#201-day-3) |  |
 | [4](#201-day-4) |  |
@@ -30,7 +30,7 @@
 ### Contents
 | Day | Description |
 |------|-----------|
-| [1](#301-day-1) | Day 1 covers CSS Positioning and basic javascript |
+| [1](#301-day-1) | |
 | [2](#301-day-2) |  |
 | [3](#301-day-3) |  |
 | [4](#301-day-4) |  |
@@ -51,7 +51,7 @@
 ### Contents
 | Day | Description |
 |------|-----------|
-| [1](#301-day-1) | Day 1 covers CSS Positioning and basic javascript |
+| [1](#301-day-1) |  |
 | [2](#301-day-2) |  |
 | [3](#301-day-3) |  |
 | [4](#301-day-4) |  |
