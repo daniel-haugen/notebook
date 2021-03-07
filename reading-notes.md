@@ -6,7 +6,7 @@
 3. [401 Reading Notes](#code-401-reading-notes)
 <br/>
 
-# Code 201 Reading Notes
+## Code 201 Reading Notes
 ### Contents
 | Day | Description |
 |------|-----------|
@@ -27,7 +27,7 @@
 | [15](#201-day-15) |  |
 <br/>
 
-# Code 301 Reading Notes
+## Code 301 Reading Notes
 ### Contents
 | Day | Description |
 |------|-----------|
@@ -48,7 +48,7 @@
 | [15](#301-day-15) |  |
 <br/>
 
-# Code 401 Reading Notes
+## Code 401 Reading Notes
 ### Contents
 | Day | Description |
 |------|-----------|
