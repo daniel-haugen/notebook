@@ -1,10 +1,10 @@
 # CodeFellows Reading Notes
-This is a collection of reading notes put together by Daniel Haugen while studying CF's 201 curriculum.
+This is a collection of reading notes put together by Daniel Haugen while studying CF's 201 curriculum. :triumph:
 
 ## 201 Table Of Contents
 
 -[Day 1](#day-1-reading-notes)
--[Day 2](https://www.danielhaugen22.github.io#day-2-reading-notes)
+-[Day 2](#day-2-reading-notes)
 
 
 ## Day 1 Reading Notes
