@@ -5,8 +5,6 @@
 **HTML & CSS by John Duckett** - *pg. 2-11, 12-39, 176-199, 428-451, 452-475*<br/>
 **Javascript & Jquery** - *Intro, pg. 11-52*
 
-## HTML Structure and Markup
-
 ## HTML5 Layout
 
 In the beginning, everything was a div container. Now there are more tags available to give your code more semantic meaning. They all act as div containers though.
