@@ -12,14 +12,14 @@
 In the beginning, everything was a div container. Now there are more tags available to give your code more semantic meaning. They all act as div containers though.
 
 Here's some of the tags:
-1. <header>
-2. <footer>
-3. <nav>
-4. <article>
-5. <aside>
-6. <section>
-7. <hgroup>
-8. <figure> and <figcaption>
+1. `<header>`
+2. `<footer>`
+3. `<nav>`
+4. `<article>`
+5. `<aside>`
+6. `<section>`
+7. `<hgroup>`
+8. `<figure>` and `<figcaption>`
 
 If the container is not serving one of these purposes, use a div container.
 
