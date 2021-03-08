@@ -2,6 +2,9 @@
 
 [Back to Home Page](README.md)
 
+### About
+Here lies all of Daniel's notes.
+
 ### Table of Contents
 1. [201 Reading Notes](#code-201-reading-notes)
 2. [301 Reading Notes](#code-301-reading-notes)
