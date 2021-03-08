@@ -23,7 +23,20 @@ Here's some of the tags:
 
 If the container is not serving one of these purposes, use a div container.
 
+You can wrap containers in `<a>` tags to make the entire container a link.
+
+Older browsers that can't run HTML5 won't understand the new tags.
 
 ## Process and Design
+
+1. ### Answer the Questions
+    - Who is the target audience?
+    - Why are they visiting your website?
+    - What is your visitor trying to achieve?
+    - What information does the visitor need?
+    - How often will people visit your site?
+2. ### Sitemap
+3. ### Wireframe
+
 
 ## ABC of Programming
