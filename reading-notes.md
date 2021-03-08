@@ -15,7 +15,7 @@ Here lies all of Daniel's notes.
 | Day | Topics Covered |
 |------|-----------|
 | [1](classnotes/class01.md) | Structure, Extra Markup, HTML5 Layout, Process & Design, ABC of Programming |
-| [2](#201-day-2) |  |
+| [2](classnotes/class02.md) | Text, Intro to CSS, Basic Javascript, Decisions and Loops |
 | [3](#201-day-3) |  |
 | [4](#201-day-4) |  |
 | [5](#201-day-5) |  |
