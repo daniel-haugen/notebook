@@ -36,7 +36,20 @@ Older browsers that can't run HTML5 won't understand the new tags.
     - What information does the visitor need?
     - How often will people visit your site?
 2. ### Sitemap
-3. ### Wireframe
+It can be useful to create a card for each page of the website so you can visually move and group related pages to create a site heirarchy.
 
+3. ### Wireframe
+The wireframe is the layout design of the website. It designates the containers, their pixel width, and the information that will fill the box.
 
 ## ABC of Programming
+
+A script is just a list of steps for a computer to process.
+Define your goal, then define the steps required to reach the goal.
+
+Objects are things in programming that may have one or multipe properties.
+
+Javascript can detect events in the browser and order certain code to run in response.
+
+Each element in HTML is considered a node, which is a type of object
+
+Javascript is run where it is found in the HTML document.
