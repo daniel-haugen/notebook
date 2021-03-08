@@ -44,10 +44,17 @@ The wireframe is the layout design of the website. It designates the containers,
 A script is just a list of steps for a computer to process.
 Define your goal, then define the steps required to reach the goal.
 
-Objects are things in programming that may have one or multipe properties.
+| Name | Description |
+| -- | -- |
+| Object | a thing. Each object can have its own properties, events, or methods. |
+| Properties | The common characteristics of objects are known as properties. Each property has a name and a value. |
+| Events | Events are user interactions with the web page that can be used to trigger code. |
+| Methods | Methods are used to update the values of object properties. |  
 
-Javascript can detect events in the browser and order certain code to run in response.
+The document object model is the computer's view of the webpage, beginning with the document object.
 
-Each element in HTML is considered a node, which is a type of object
+Each element in HTML is considered a node, which is a type of object, somewhere on the tree below the document object.
 
-Javascript is run where it is found in the HTML document.
+Javascript is run where it is found in the HTML document. If javascript is placed before an html element it changes in the browser, then it won't load properly. 
+
+HTML holds the content, CSS provides the styling information, and Javascript creates interactions and event-driven changes to the document object model. 
