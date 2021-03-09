@@ -94,6 +94,7 @@ By adding `!important` to the end of a CSS property, you'll indicate that it tak
 | Modulus | % | Delivers remainder |
 
 | Comparison Operators | Example |
+| -- | -- |
 | == | Equal to | 
 | != | Not equal to | 
 | === | Strict equal to (data type enforcement) | 
