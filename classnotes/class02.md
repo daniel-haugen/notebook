@@ -44,7 +44,7 @@ To use external CSS, you must connect it to the html page with a `<link>` tag in
 | --- | --- | --- | 
 | Universal Selector | `*` | selects all the elements on the page | 
 | Type Selector | `h1` or `main` | matches with all instances of this type | 
-| Class Selector | `.` denoted by a period | matches all elements with the designated class. `h1.bigtext` would result in elements with a class of bigtext | 
-| Universal Selector | `*` | selects all the elements on the page | 
-| Universal Selector | `*` | selects all the elements on the page | 
-| Universal Selector | `*` | selects all the elements on the page | 
+| Class Selector | `.` denoted by a period | matches all elements with the designated class. `h1.bigtext` would result in any h1 elements with a class of `bigtext` | 
+| ID Selector | `#` | matches all elements with the designated id. `h1#bigtext` would result in any h1 elements with an id of `bigtext` | 
+| Child Selector | `>` | selects an element that is a **direct** (has to be direct) child of another. `main>p` would select `<p>` tags that are direct children of the `<main>` tag. | 
+| Descendant Selector | `[space}` | selects an element that sits inside another element regradless if other elements are nested.| 
