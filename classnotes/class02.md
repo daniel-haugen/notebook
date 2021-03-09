@@ -31,7 +31,6 @@ Semantic markup is html markup that doesn't affect the structure of the page, bu
 ### Use External CSS
 To use external CSS, you must connect it to the html page with a `<link>` tag in the `<head>`.
 
-
 `<link href= "stylesheetLocation" type= "text/css" rel= "stylesheet">`
 
 ### Use Internal CSS
@@ -73,3 +72,24 @@ By adding `!important` to the end of a CSS property, you'll indicate that it tak
 | Numeric | 0.75, 5, 10 |
 | String | "this is a string" | 
 | Boolean | Either 'true' or 'false' | 
+
+### Rules for Naming Variables
+1. Must begin with a letter, $ or an underscore.
+2. Do not use dash or period.
+3. Cannot use keywords or reserved words.
+4. Variables are case sensitive.
+5. Use descriptive names
+6. Always use camelCase
+
+"Values in an array are accessed as if they are in a numbered list."
+
+| Arithmetic Operators | Example | Result |
+| -- | -- | -- |
+| Addition | + | Adds value together |
+| Subtraction | - | Subtracts value from another |
+| Division | / | Divides values |
+| Multiplication | * | Multiplies two values |
+| Increment | ++ | Increases value by 1 |
+| Decrement | -- | Decreases value by 1 |
+| Modulus | % | Delivers remainder |
+
