@@ -26,3 +26,25 @@ Here's a bunch of html tags related to text:
 #### Semantic Markup
 Semantic markup is html markup that doesn't affect the structure of the page, but can still provide information for search engines and web|assist devices. For example, `<address>`.
 
+## Introducing CSS
+
+### Use External CSS
+To use external CSS, you must connect it to the html page with a `<link>` tag in the `<head>`.
+
+
+`<link href= "stylesheetLocation" type= "text/css" rel= "stylesheet">`
+
+### Use Internal CSS
+
+`<style>` tags are used to place CSS rules inline with the HTML. It can either be placed in `<head>` or `<body>`.
+
+### Types of CSS Selectors
+
+| CSS Selector | Example | Definition | 
+| --- | --- | --- | 
+| Universal Selector | `*` | selects all the elements on the page | 
+| Type Selector | `h1` or `main` | matches with all instances of this type | 
+| Class Selector | `.` denoted by a period | matches all elements with the designated class. `h1.bigtext` would result in elements with a class of bigtext | 
+| Universal Selector | `*` | selects all the elements on the page | 
+| Universal Selector | `*` | selects all the elements on the page | 
+| Universal Selector | `*` | selects all the elements on the page | 
