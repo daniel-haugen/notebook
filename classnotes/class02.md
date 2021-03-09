@@ -93,3 +93,12 @@ By adding `!important` to the end of a CSS property, you'll indicate that it tak
 | Decrement | -- | Decreases value by 1 |
 | Modulus | % | Delivers remainder |
 
+| Comparison Operators | Example |
+| == | Equal to | 
+| != | Not equal to | 
+| === | Strict equal to (data type enforcement) | 
+| !== | Strict not equal to (data type enforcement) | 
+| > | Greater than | 
+| < | Less than | 
+| >= | Greater than or equal to |
+| <= | Less than or equal to |
