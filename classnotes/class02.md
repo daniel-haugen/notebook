@@ -112,5 +112,5 @@ By adding `!important` to the end of a CSS property, you'll indicate that it tak
 
 
 ### If and If else Statements   
-if statements evaluate a condition to determine whether or not to run a block of code. <br/>
-if else statements evaluate a condition and determine whether 1 block of code gets run or another.
+**if** statements evaluate a condition to determine whether or not to run a block of code. <br/>
+**if else** statements evaluate a condition and determine whether 1 block of code gets run or another.
