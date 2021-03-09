@@ -44,7 +44,21 @@ To use external CSS, you must connect it to the html page with a `<link>` tag in
 | --- | --- | --- | 
 | Universal Selector | `*` | selects all the elements on the page | 
 | Type Selector | `h1` or `main` | matches with all instances of this type | 
-| Class Selector | `.` denoted by a period | matches all elements with the designated class. `h1.bigtext` would result in any h1 elements with a class of `bigtext` | 
+| Class Selector | `.` | matches all elements with the designated class. `h1.bigtext` would result in any h1 elements with a class of `bigtext` | 
 | ID Selector | `#` | matches all elements with the designated id. `h1#bigtext` would result in any h1 elements with an id of `bigtext` | 
 | Child Selector | `>` | selects an element that is a **direct** (has to be direct) child of another. `main>p` would select `<p>` tags that are direct children of the `<main>` tag. | 
 | Descendant Selector | `[space}` | selects an element that sits inside another element regradless if other elements are nested.| 
+| Adjacent Sibling Selector | `+` | Targets the only the first instance of an element after an indicated element. `main+figure` would select the first instance of `<figure>` after `<main>`.
+| General Sibling Selector | `~` | Matches elements that are siblings of each other. 
+
+
+### Cascade Rules
+
+#### Last Rule
+If two selectors are duplicate, the latter takes control.
+
+#### Specificity
+Rules with increased specificity/granularity will take control. 
+
+#### !important 
+By adding `!important` to the end of a CSS property, you'll indicate that it takes priority over everything else.
