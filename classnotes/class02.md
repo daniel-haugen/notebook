@@ -62,3 +62,14 @@ Rules with increased specificity/granularity will take control.
 
 #### !important 
 By adding `!important` to the end of a CSS property, you'll indicate that it takes priority over everything else.
+
+
+## Basic Javascript
+
+#### Data Types
+
+| Type | Example | 
+| -- | -- |
+| Numeric | 0.75, 5, 10 |
+| String | "this is a string" | 
+| Boolean | Either 'true' or 'false' | 
