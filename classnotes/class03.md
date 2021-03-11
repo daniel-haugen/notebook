@@ -3,7 +3,7 @@
 
 #### Today's Reading:<br/>
 **HTML & CSS by John Duckett** - *pg. 62-73, 300-329*<br/>
-**Javascript & Jquery** - *pg. 70-73, 162-182*
+**Javascript & Jquery by John Duckett** - *pg. 70-73, 162-182*
 
 
 ## HTML Lists
