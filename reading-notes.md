@@ -17,7 +17,7 @@ Here lies all of Daniel's notes.
 | [1](classnotes/class01.md) | Structure, Extra Markup, HTML5 Layout, Process & Design, ABC of Programming |
 | [2](classnotes/class02.md) | Text, Intro to CSS, Basic Javascript, Decisions and Loops |
 | [3](classnotes/class03.md) | Lists, Boxes, Basic Javascript, Decisions and Loops |
-| [4](#201-day-4) |  |
+| [4](classnotes/class04.md) | Links, CSS Layout, Functions, Methods and Objects |
 | [5](#201-day-5) |  |
 | [6](#201-day-6) |  |
 | [7](#201-day-7) |  |
