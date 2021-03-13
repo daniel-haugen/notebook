@@ -1,0 +1,204 @@
+:root {
+    --bsize: 35vw;
+    --mbsize: 500px;
+    --b1color: rgb(240, 226, 204);
+    --b2color: rgb(220, 220, 220);
+    --welcome: rgb(194, 194, 194);
+    --heading: #158467;
+    --body: #065446;
+    --top10: #158467; 
+}
+
+/* 
+Colors:
+tan - #fadcac 
+lightest green - #158467
+middle green - #197163
+dark green - #065446
+*/
+
+
+/* ELEMENTS */
+
+body {
+    font-family: helvetica;
+    font-size: 22px;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 100px;
+    padding: 20px 0;
+    color: white;
+}
+
+h2 {
+    font-size: 35px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style-type: decimal;
+    line-height: 1.5;
+}
+
+/* Top Banner */
+
+.welcome {
+    background-color: var(--welcome);
+    height: 75px;
+    display: grid;
+    place-items: center;
+}
+
+#welcome {
+    font-family: arial;
+    font-size: 30px;
+}
+
+/* Header 'About Me' */
+.title {
+    width: 100%; 
+    height: auto;
+    display: grid; 
+    place-items: center;
+    background-color: var(--heading);
+}
+
+/* bubble section main div */
+.bubble-ctr {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--body);
+    align-items: center;
+}
+
+/* text control for bubbles */
+.bubble-card {
+    height: 100%;
+    width: 75%;
+    margin: 40px auto;
+    display: flex;
+    padding: 0%;
+    align-items: center ;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.bubble-card>ul {
+    position: relative;
+    bottom: 90px;
+    padding: 5px 50px;
+}
+
+/* Bubbles! */
+.redcard {
+    width: var(--bsize);
+    height: var(--bsize);
+    min-width: var(--mbsize);
+    min-height: var(--mbsize);
+    margin: 50px 35% 0 0;
+    background-color: var(--b1color);
+    border-radius: 50%;
+    /* border-style: solid;
+    border-width: 4px;
+    border-color: black; */
+    z-index: 6; 
+}
+
+.bluecard {
+    width: var(--bsize);
+    height: var(--bsize);
+    min-width: var(--mbsize);
+    min-height: var(--mbsize);
+    margin: 0 0 0 45%;
+    background-color: var(--b2color);
+    border-radius: 50%;
+    /* border-style: solid;
+    border-width: 4px;
+    border-color: black; */
+    position: relative;
+    top: -100px;
+    z-index: 7;
+}
+
+.greencard {
+    width: var(--bsize);
+    height: var(--bsize);
+    min-width: var(--mbsize);
+    min-height: var(--mbsize);
+    margin: 0 45% 0 0;
+    background-color: var(--b1color);
+    border-radius: 50%;
+    /* border-style: solid;
+    border-width: 4px;
+    border-color: black; */
+    position: relative;
+    top: -200px;
+    z-index: 8;
+}
+
+.purplecard {
+    width: var(--bsize);
+    height: var(--bsize);
+    min-width: var(--mbsize);
+    min-height: var(--mbsize);
+    margin: 0 0 0 45%;
+    background-color: var(--b2color);
+    border-radius: 50%;
+    /* border-style: solid;
+    border-width: 4px;
+    border-color: black; */
+    position: relative;
+    top: -300px;
+}
+
+/* Top 10 */
+.top10 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    height: auto;
+    background-color: var(--top10);
+}
+
+.bandheading {
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.top10>ol {
+    margin-bottom: 60px;
+}
+
+@media only screen and (max-width: 600px) {
+
+.redcard {
+    margin: 20px 15% 0 0;
+}
+
+.bluecard {
+    margin: 0 0 0 20%;
+ 
+}
+
+.greencard {
+    margin: 0 15% 0 0;
+}
+
+.purplecard {
+    margin: 0 0 0 20%;
+}
+
+
+}
