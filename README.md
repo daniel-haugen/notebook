@@ -4,7 +4,7 @@ I've worked in digital marketing for 5-6 years and am now studying Full-Stack Ja
 
 ## Resources
 [Code Fellows Reading Notes](reading-notes.md)<br/>
-[Code Fellows Projects]()<br/>
+[Code Fellows Projects](/projects/README.md)<br/>
 [Personal Website - dnhaugen.com](https://www.dnhaugen.com)<br/>
 [Instagram](https://www.instagram.com/danyelhaugen)<br/>
 [LinkedIn](https://www.linkedin.com/in/danielnhaugen)

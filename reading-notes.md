@@ -18,17 +18,17 @@ Here lies all of Daniel's notes.
 | [2](classnotes/class02.md) | Text, Intro to CSS, Basic Javascript, Decisions and Loops |
 | [3](classnotes/class03.md) | Lists, Boxes, Basic Javascript, Decisions and Loops |
 | [4](classnotes/class04.md) | Links, CSS Layout, Functions, Methods and Objects |
-| [5](#201-day-5) |  |
-| [6](#201-day-6) |  |
-| [7](#201-day-7) |  |
-| [8](#201-day-8) |  |
-| [9](#201-day-9) |  |
-| [10](#201-day-10) |  |
-| [11](#201-day-11) |  |
-| [12](#201-day-12) |  |
-| [13](#201-day-13) |  |
-| [14](#201-day-14) |  |
-| [15](#201-day-15) |  |
+| [5](classnotes/class05.md) | HTML Images, CSS Color and Text |
+| [6](classnotes/class06.md) | Problem Domain, Objects, and the DOM |
+| [7](classnotes/class07.md) |  |
+| [8](classnotes/class08.md) |  |
+| [9](classnotes/class09.md) |  |
+| [10](classnotes/class10.md) |  |
+| [11](classnotes/class11.md) |  |
+| [12](classnotes/class12.md) |  |
+| [13](classnotes/class13.md) |  |
+| [14](classnotes/class14.md) |  |
+| [15](classnotes/class15.md) |  |
 <br/>
 
 ## Code 301 Reading Notes
