@@ -20,7 +20,7 @@ Here lies all of Daniel's notes.
 | [4](classnotes/class04.md) | Links, CSS Layout, Functions, Methods and Objects |
 | [5](classnotes/class05.md) | HTML Images, CSS Color and Text |
 | [6](classnotes/class06.md) | Problem Domain, Objects, and the DOM |
-| [7](classnotes/class07.md) |  |
+| [7](classnotes/class07.md) | Domain Modeling, HTML Tables, Functions, Methods, Objects |
 | [8](classnotes/class08.md) |  |
 | [9](classnotes/class09.md) |  |
 | [10](classnotes/class10.md) |  |
