@@ -22,8 +22,8 @@ Here lies all of Daniel's notes.
 | [6](classnotes/class06.md) | Problem Domain, Objects, and the DOM |
 | [7](classnotes/class07.md) | Domain Modeling, HTML Tables, Functions, Methods, Objects |
 | [8](classnotes/class08.md) | CSS Layout |
-| [9](classnotes/class09.md) |  |
-| [10](classnotes/class10.md) |  |
+| [9](classnotes/class09.md) | Forms, Lists, Tables, JS Events |
+| [10](classnotes/class10.md) | Error Handling and Debugging |
 | [11](classnotes/class11.md) |  |
 | [12](classnotes/class12.md) |  |
 | [13](classnotes/class13.md) |  |
