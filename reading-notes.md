@@ -24,7 +24,7 @@ Here lies all of Daniel's notes.
 | [8](classnotes/class08.md) | CSS Layout |
 | [9](classnotes/class09.md) | Forms, Lists, Tables, JS Events |
 | [10](classnotes/class10.md) | Error Handling and Debugging |
-| [11](classnotes/class11.md) |  |
+| [11](classnotes/class11.md) | Images, Practical Information, Flash |
 | [12](classnotes/class12.md) |  |
 | [13](classnotes/class13.md) |  |
 | [14](classnotes/class14.md) |  |
