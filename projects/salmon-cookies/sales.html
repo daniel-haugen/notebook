@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style/reset.css">
+  <link rel="stylesheet" href="style/style.css">
+
+  <title>Sales By Location</title>
+
+</head>
+
+<body>
+  <header>
+    <a href="/">
+      <h1>Salmon Cookies</h1>
+    </a>
+    <nav>
+      <ul>
+        <a href="">
+          <li>locations</li>
+        </a>
+        <a href="sales.html">
+          <li>sales</li>
+        </a>
+        <a href="">
+          <li>contact</li>
+        </a>
+      </ul>
+    </nav>
+  </header>
+
+
+  <main>
+    <h2 class="th">Hourly Sales Data</h2>
+
+    <section id="store-ctr">
+
+    </section>
+
+    <div class="form-ctr">
+      <form id="form">
+        <legend>
+          <h2>Add New Store</h2>
+        </legend>
+        <label>City: <input type="text" name="location"></label> <br />
+        <label>Minimum Customers Per Hour: <input type="text" name="minC"></label><br />
+        <label>Maximum Customers Per Hour: <input type="text" name="maxC"></label><br />
+        <label>Average Cookie Order: <input type="text" name="avgOrder"></label><br />
+        <label><input type="submit"></label>
+      </form>
+    </div>
+  </main>
+
+
+  <script src="/js/app.js"></script>
+</body>
+
+</html>
