@@ -26,7 +26,7 @@ Here lies all of Daniel's notes.
 | [10](classnotes/class10.md) | Error Handling and Debugging |
 | [11](classnotes/class11.md) | Images, Practical Information, Flash |
 | [12](classnotes/class12.md) | Chart.js and HTML Canvas |
-| [13](classnotes/class13.md) |  |
+| [13](classnotes/class13.md) | localStorage |
 | [14](classnotes/class14.md) |  |
 | [15](classnotes/class15.md) |  |
 <br/>
