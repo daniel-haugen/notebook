@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
+
+/* body {
+
+
+} */
+
+
+nav {
+  height: 10vh;
+  background-color: lightblue;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 30px;
+}
+
+nav>h1 {
+font-size: 5em;
+font-family: yellowtail, cursive;
+color: rgb(255, 166, 34);
+text-shadow: 3px 3px black;
+margin-left: 20px;
+}
+
+main {
+  background-color: lightcoral;
+  height: 80vh;
+  display: flex;
+}
+
+.results {
+background-color: lightseagreen;
+width: 25%;
+height: 100%;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: flex-start;
+line-height: 1.5;
+}
+
+.results>h2 {
+  font-size: 1.8em;
+
+}
+.results>ul{
+  font-size: 1.4em;
+}
+
+.results>ul>li {
+  font-size: .8em;
+}
+
+
+
+.ctr {
+  background-color: lightslategray;
+  width: 75%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#product-ctr {
+  /* background-color: green; */
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 20px;
+}
+
+#product-ctr>figure {
+/* background-color: blue; */
+margin: 0 10px;
+display: grid;
+place-items: center;
+}
+
+#product-ctr>figure>img {
+width: 250px;
+height: 250px;
+margin: 20px 0;
+border: 8px solid black;
+border-radius: 20px;
+}
+
+h4 {
+  font-size: 2em;
+  font-weight: bold;
+  font-family: helvetica;
+}
+
+
+
+
+
+#chart {
+  width: 100%;
+  height: 50%;
+  background-color: white;
+  border-radius: 10px;
+}
+
+
+
+
+
+
+
+footer {
+  background-color: lightgreen;
+  height: 10vh;
+  display: grid;
+  place-items: center;
+  font-size: 2em;
+}
