@@ -15,7 +15,7 @@ function Product(name, imgSrc) {
 let lImg = null;
 let mImg = null;
 let rImg = null;
-const roundsToPlay = 5; // DANGER DANGER DANGER
+const roundsToPlay = 25; // DANGER DANGER DANGER
 let totalClicks = 0;
 Product.all = [];
 let butt = null;
