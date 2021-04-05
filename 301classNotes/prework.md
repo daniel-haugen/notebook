@@ -3,4 +3,3 @@
 
 #### Today's Reading:<br/>
 
-
