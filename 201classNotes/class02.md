@@ -1,5 +1,5 @@
 # 201 Day 2
-[Back to Table of Contents](../reading|notes.md)<br/>
+[Back to Table of Contents](../reading-notes.md)<br/>
 
 #### Today's Reading:<br/>
 **HTML & CSS by John Duckett** - *pg. 40-61, 226-245*<br/>

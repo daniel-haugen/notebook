@@ -1,5 +1,5 @@
 # 201 Day 7
-[Back to Table of Contents](../reading|notes.md)<br/>
+[Back to Table of Contents](../reading-notes.md)<br/>
 
 #### Today's Reading:<br/>
 [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)

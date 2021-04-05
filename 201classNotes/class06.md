@@ -1,5 +1,5 @@
 # 201 Day 6
-[Back to Table of Contents](../reading|notes.md)<br/>
+[Back to Table of Contents](../reading-notes.md)<br/>
 
 #### Today's Reading:<br/>
 [Understanding the Problem Domain](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming) <br/>
