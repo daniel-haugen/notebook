@@ -1,5 +1,5 @@
 # 201 Day 10
-[Back to Table of Contents](../reading|notes.md)<br/>
+[Back to Table of Contents](../reading-notes.md)<br/>
 
 #### Today's Reading:<br/>
 **Javascript & Jquery by John Duckett** - *Chapter 10 - Error Handling*
