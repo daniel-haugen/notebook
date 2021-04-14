@@ -80,3 +80,16 @@ render() {
 
 ### Function Components
 >In React, function components are a simpler way to write components that only contain a `render` method and **don't have their own state.**
+
+- `this.props` becomes just `props`
+- `onClick={()=> this.props.onClick()}` becomes `onClick={props.onClick}`
+
+```javascript
+function Square(props) {
+  return (
+    <button className="square" onClick={props.onClick}>
+      {props.value}
+    </button>
+  );
+}
+```
