@@ -44,7 +44,6 @@ class ShoppingList extends React.Component {
 Built-in DOM Components - div, li, h2
 Custom React Components - `<componentName />`
 
-
 ### State
 
 ##### To remember things, React components use state
@@ -92,4 +91,28 @@ function Square(props) {
     </button>
   );
 }
+```
+
+## Rendering
+
+To render a React element into a root DOM node, pass both to ReactDOM.render():
+```javascript
+const element = <h1>Hello, world</h1>;
+ReactDOM.render(element, document.getElementById('root'));
+```
+
+In the following code example, we're re-rendering a component every second.
+
+```javascript 
+function tick() {
+  const element = (
+    <div>
+      <h1>Hello, world!</h1>
+      <h2>It is {new Date().toLocaleTimeString()}.</h2>
+    </div>
+  );
+  ReactDOM.render(element, document.getElementById('root'));
+}
+
+setInterval(tick, 1000);
 ```
