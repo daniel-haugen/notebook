@@ -1,37 +1,24 @@
-# 301 Day 6
+# 301 Day 7
 [Back to Table of Contents](../reading-notes.md)<br/>
 
 #### Today's Reading:<br/>
-- [Intro to Node.js](https://reactjs.org/docs/thinking-in-react.html)
-- [6 Reasons for Pair Programming]()
-- [Geocoding API Docs]()
-- [Axios Docs]()
-- [MDN Async and Await]()
+- [REST APIs Explained](https://gist.github.com/brookr/5977550)
 
-## Intro to Node.js
+## Rest API
 
-- use a node version manager
+- Roy Fielding created the internet
 
-### NodePackageManager
-You can either install node packages locally or globally.
+From the reading:
+>ME: So anyway, HTTP—this protocol Fielding and his friends created—is all about applying verbs to nouns. For instance, when you go to a web page, the browser does an HTTP GET on the URL you type in and back comes a web page.
 
-1. Locally - `npm init -y` will create a `package.json` dependency file and `npm install [package] --save` will install a package locally and add to the dependency list.
-2. Globally - `npm install -g [package]`
+Web pages usually have images, right? Those are separate resources. The web page just specifies the URLs to the images and the browser goes and does more GETs using the HTTP protocol on them until all the resources are obtained and the web page is displayed. But the important thing here is that very different kinds of nouns can be treated the same. Whether the noun is an image, text, video, an mp3, a slideshow, whatever. I can GET all of those things the same way given a URL.
 
-Example HTTP server starter code:
-```javascript
-const http = require('http');
+Brother: Sounds like GET is a pretty important verb.
 
-http.createServer((request, response) => {
-  response.writeHead(200);
-  response.end('Hello, World!');
-}).listen(3000);
+ME: It is. Especially when you're using a web browser because browsers pretty much just GET stuff. They don't do a lot of other types of interaction with resources. This is a problem because it has led many people to assume that HTTP is just for GETing. But HTTP is actually a general purpose protocol for applying verbs to nouns.
 
-console.log('Server running on http://localhost:3000');
-  ```
+Brother: Cool. But I still don't see how this changes anything. What kinds of nouns and verbs do you want?
 
-1. Create node's http module
-2. createServer method to create a server object, which is passed an arrow function.
-3. the arrow function is invoked for every new connection made to the server.
-4. the function contains `request` and `response` arguments. 
-5. Finally, tell the server to listen to incoming requests on port 3000.  
+ME: Well the nouns are there but not in the right format.
+
+Think about when you're browsing around amazon.com looking for things to buy me for Christmas (whispers: VITAMIX!!!) . Imagine each of the products as being nouns. Now, if they were available in a representation that a machine could understand, you could do a lot of neat things.
